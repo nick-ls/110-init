@@ -15,7 +15,7 @@ Three things you should know:
 
 1. They are alright, but I tend to prefer unordered lists
 2. Did you know that you just need any arbitrary number in front of a parenthesis to make an ordered list as long as the first number that starts your ordered list is at the number you want your list to start at? (partial misinformation)
-3. This list item used to have the number `29837474` as what came before the parenthesis, but GitHub Pages renders markdown files differently when it compiles the page to HTML. Very cool GitHub!
+3998. This list item used to have the number `29837474` as what came before the parenthesis, but GitHub Pages renders markdown files differently when it compiles the page to HTML. Very cool GitHub!
 
 ## Take on unordered lists?
 - These days I'm actually leaning more towards ordered lists
