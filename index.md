@@ -87,7 +87,7 @@ Or maybe this:
 Sure, click [this link](/the.md)
 
 ## Website recommendations?
-https://pilk.tk/letterdle (Desktop Only)
+[https://pilk.tk/letterdle](https://pilk.tk/letterdle) (Desktop Only)
 
 ## What does your TODO list look like?
 I could list it out here, but I'm afraid Github's file size limit would be far surpassed.
