@@ -11,11 +11,12 @@ I got into Node.js by creating Discord bots with `discord.js`. Then I learned to
 Now I make websites in React using outdated class-based components instead of those hip, newfangled functional components that all of the kids are using nowadays. 
 
 ## What are your takes on ordered lists?
-Three things you should know:
+Four things you should know:
 
 1. They are alright, but I tend to prefer unordered lists
-2. Did you know that you just need any arbitrary number in front of a parenthesis to make an ordered list as long as the first number that starts your ordered list is at the number you want your list to start at? (partial misinformation)
-3998. This list item used to have the number `29837474` as what came before the parenthesis, but GitHub Pages renders markdown files differently when it compiles the page to HTML. Very cool GitHub!
+1. Did you know that you just need any arbitrary number in front of a period to make an ordered list as long as the first number that starts your ordered list is at the number you want your list to start at? ~(partial misinformation)~
+29837474. This list item has the number `29837474` as what comes before the period.
+1. Fun Fact: GitHub Pages renders markdown files differently from the GitHub markdown preview when it compiles the page to HTML. You can't use parenthesis for a compiled page and an ordered list but you can in the GitHub markdown preview. Very cool GitHub!
 
 ## Take on unordered lists?
 - These days I'm actually leaning more towards ordered lists
