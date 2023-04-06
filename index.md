@@ -79,7 +79,7 @@ Probably something like this:
 (original artwork, do not steal)
 
 Or maybe this:
-![](/screenshots/gorse2.png)
+![](/screenshots/gorse3.png)
 (original artwork, do not steal)
 
 ## Can you say hello to me?
